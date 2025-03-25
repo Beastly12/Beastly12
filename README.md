@@ -1,5 +1,12 @@
-<img src="https://avatars.githubusercontent.com/u/79317241?s=400&u=cd50aa2526edbbd2110f6ddfc54a7e4cf72972b8&v=4" width="100vw" />
-## Hi there 👋
+Hi there! 🙋‍♂️
+
+I'm Dafe, a software engineer based in Winchester, UK.
+
+I'm currently pursuing a BSc (Hons) in Software Engineering, but I’ve already earned various certifications in the field, including a Professional Diploma in Software Engineering. My passion lies in AI and Machine Learning, and I’m excited about the limitless possibilities these technologies will bring in the coming years.
+
+Over the years, I’ve worked on various projects and contributed to multiple organizations, with my most recent experience being at a short-let company. My work spans across different domains, allowing me to gain hands-on experience in software development, problem-solving, and innovation.
+
+Looking forward to connecting and building something great! 🚀
 
 <!--
 **Beastly12/Beastly12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
